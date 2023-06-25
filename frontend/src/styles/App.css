@@ -1,0 +1,12 @@
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover, a.active {
+  color: #f51
+}
+
+main {
+  padding: 24px;
+}
